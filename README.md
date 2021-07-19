@@ -1,1 +1,1 @@
-# improved-key-logger misbah4064 had a better version so i used his thanks to him my first version i had trouble implementing the emailing the list of keys logged his is a little more efficient and helped solved my problem
+# improved-key-logger I implemented the email function to log all the key inputs after every ten key strokes to send to your Gmail and it works smoothly and efficiently 
